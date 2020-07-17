@@ -12,6 +12,12 @@ My learning is based on creating projects and helping out the developer communit
 ### 💡&nbsp; Driven by shipping products that help people  
 My passion for programming is related to create incredible things and help people with my creative mind.  
 
+### 💡&nbsp; My Hobies  
+- Designing weird stuff 
+- Travelling 
+- Book Reading 
+
+
 ### 🔭&nbsp; Goals for 2020 
 - Start My own Design and Development Company 
 - Launch a real product with [React Native](https://expo.io/) and [React](https://reactjs.org/)
