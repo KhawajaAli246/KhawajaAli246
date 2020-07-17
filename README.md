@@ -12,7 +12,7 @@ My learning is based on creating projects and helping out the developer communit
 ### 💡&nbsp; Driven by shipping products that help people  
 My passion for programming is related to create incredible things and help people with my creative mind.  
 
-### 💡&nbsp; My Hobies  
+### :mountain_bicyclist: My Hobies  
 - Designing weird stuff 
 - Travelling 
 - Book Reading 
@@ -72,7 +72,7 @@ My passion for programming is related to create incredible things and help peopl
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 
 **CMS**
-[![Typo3](https://img.shields.io/badge/-Typo3-f9d2a7?style=flat-square&logo=typo3&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
+[![Strapi.js](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat-square&logo=Strapi&logoColor=white&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 
 **Operational System**
