@@ -63,6 +63,7 @@ My passion for programming is related to create incredible things and help peopl
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
+[![CodeIgnitor](https://img.shields.io/badge/-CodeIgniter-EE4623?style=flat-square&logo=CodeIgniter&logoColor=white&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 
 **Database**
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
@@ -79,7 +80,7 @@ My passion for programming is related to create incredible things and help peopl
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 
 **IDE**
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 
 
 ⭐️ From [Khawaja Muhammad Ali](https://github.com/KhawajaAli246)
