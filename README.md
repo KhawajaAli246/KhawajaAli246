@@ -49,7 +49,7 @@ My passion for programming is related to create incredible things and help peopl
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/KhawajaAli246/)
 
 **Design**
-[![Figma](https://img.shields.io/badge/Adobe%20XD-Black?style=flat-square&logo=Adobe%20XD)](https://github.com/KhawajaAli246/)
+[![AoobeXD](https://img.shields.io/badge/Adobe%20XD-Black?style=flat-square&logo=Adobe%20XD)](https://github.com/KhawajaAli246/)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=flat-square&logo=Dribbble&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 
 **Others Technologies**
