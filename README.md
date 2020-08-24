@@ -2,7 +2,7 @@
 
 ## About me
 
-:man_technologist: <strong>I'm a JS Ninja :hocho: from React Native(Expo Lover) to Electron I work in whatever seems intimidating to me</strong>
+:man_technologist: <strong>I'm a JS Ninja :hocho: from React Native(Expo Lover) to Nextjs I work in whatever seems intimidating to me</strong>
 
 <strong>I'm currently developing Mobile Apps with React Native</strong> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
 
