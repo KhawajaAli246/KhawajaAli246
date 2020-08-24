@@ -61,7 +61,6 @@ My passion for programming is related to create incredible things and help peopl
 [![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=flat-square&logo=Dribbble&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 
 **Others Technologies**
-[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
