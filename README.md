@@ -18,11 +18,11 @@ My passion for programming is related to create incredible things and help peopl
 - Book Reading 
 
 
-### 🔭&nbsp; Goals for 2020 
+### 🔭&nbsp; Goals for 2021 
 - Start My own Design and Development Company 
 - Launch a real product with [React Native](https://expo.io/) and [React](https://reactjs.org/)
 - Improve my [GraphQL](https://graphql.org/) Knowledge 
-- Starting to Get into IOT 
+
 
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=KhawajaAli246&show_icons=true&theme=radical">
