@@ -12,7 +12,7 @@ My learning is based on creating projects and helping out the developer communit
 ### 💡&nbsp; Driven by shipping products that help people  
 My passion for programming is related to create incredible things and help people with my creative mind.  
 
-### :mountain_bicyclist: My Hobies  
+### :mountain_bicyclist: My Hobbies  
 - Designing weird stuff 
 - Travelling 
 - Book Reading 
