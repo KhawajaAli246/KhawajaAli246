@@ -2,9 +2,9 @@
 
 ## About me
 
-:man_technologist: <strong>I'm a JS Ninja :hocho: from React Native(Expo Lover) to Nextjs I work in whatever seems intimidating to me</strong>
+:man_technologist: <strong>I'm a JS and Blockchain guy :hocho: from React Native(Expo Lover) to Nextjs to solidity I work in whatever seems intimidating to me</strong>
 
-<strong>I'm currently developing Mobile Apps with React Native</strong> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
+<strong>I'm currently developing DApps and NFT projects</strong> 
 
 ### ✨&nbsp; Seeking knowledge all the time  
 My learning is based on creating projects and helping out the developer community 
@@ -18,10 +18,10 @@ My passion for programming is related to create incredible things and help peopl
 - Book Reading 
 
 
-### 🔭&nbsp; Goals for 2021 
-- Start My own Design and Development Company 
-- Launch a real product with [React Native](https://expo.io/) and [React](https://reactjs.org/)
-- Improve my [GraphQL](https://graphql.org/) Knowledge 
+### 🔭&nbsp; Goals for 2022
+- Taking my Design and Development Company to next level
+- Launch a decentralized product 
+- Learning Algorand
 
 
 
@@ -46,6 +46,7 @@ My passion for programming is related to create incredible things and help peopl
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 [![C#](https://img.shields.io/badge/-CSharp-00599C?style=flat-square&logo=c#&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
 [![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php&logoColor=white&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
+[![SOLIDITY]
 
 **Front-end / Mobile**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/KhawajaAli246/)](https://github.com/KhawajaAli246/)
