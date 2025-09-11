@@ -1,29 +1,23 @@
-# Hi, I'm Khawaja Muhammad Ali :smiley:
+# Hi, I'm Khawaja Muhammad Ali 👋  
 
-## About me
+## 🚀 About Me  
+🦇 **Technical PM by day, coder by night.**  
+💻 4+ years in **Product Management** + 4 years as a **Frontend Developer (React, Next.js, Node.js, Solidity)**.  
+✨ Passionate about building **SaaS, AI & Web3 products** that scale and delight users.  
 
-:man_technologist: <strong>I'm a JS and Blockchain guy :hocho: from React Native(Expo Lover) to Nextjs to solidity I work in whatever seems intimidating to me</strong>
+## 🔥 What I’m Working On  
+- Building SaaS & AI-driven products with fast MVP cycles.  
+- Helping startups go from **idea → launch → scale**.  
 
-<strong>I'm currently developing DApps and NFT projects</strong> 
+## 🌱 Always Learning  
+- AI product integrations (LLMs + SaaS workflows)  
+- Growth metrics: **retention, churn, ARR**  
+- Scaling decentralized applications beyond MVPs  
 
-### ✨&nbsp; Seeking knowledge all the time  
-My learning is based on creating projects and helping out the developer community 
-
-### 💡&nbsp; Driven by shipping products that help people  
-My passion for programming is related to create incredible things and help people with my creative mind.  
-
-### :mountain_bicyclist: My Hobbies  
-- Designing weird stuff 
-- Travelling 
-- Book Reading 
-
-
-### 🔭&nbsp; Goals for 2022
-- Taking my Design and Development Company to next level
-- Launch a decentralized product 
-- Learning Algorand
-
-
+## 🎨 Hobbies  
+- 📚 Reading startup + psychology books  
+- ✈️ Traveling & exploring new ideas  
+- 🎮 Designing & experimenting with side projects  
 
 ## Languages and Technologies I use daily
 
