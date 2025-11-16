@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 🦇 **Technical PM by day, coder by night.**  
-💻 4+ years in **Product Management** + 4 years as a **Frontend Developer (React, Next.js, Node.js, Solidity)**.  
+💻 4+ years in **Product Management** + 4 years as a ** Developer (React, Next.js, Node.js, Solidity)**.  
 ✨ Passionate about building **SaaS, AI & Web3 products** that scale and delight users.  
 
 ## 🔥 What I’m Working On  
